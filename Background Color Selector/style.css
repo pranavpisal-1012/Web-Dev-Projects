@@ -1,0 +1,70 @@
+.first{
+    color: chocolate;
+    font-size: 50px;
+    text-align: center;
+}
+
+.last{
+    color: chocolate;
+    font-size: 50px;
+    text-align: center;
+}
+
+.colour{
+    height:10rem;
+    width :10rem;
+    font-size: 20px;
+    display:inline-block;
+}
+
+
+
+#red{
+    background-color: red;
+    border-radius: 20%;
+}
+#blue{
+    background-color:blue;
+    border-radius: 20%;
+}
+#green{
+    background-color: green;
+    border-radius: 20%;
+}
+#orange{
+    background-color: orange;
+    border-radius: 20%;
+}
+#yellow{
+    background-color: yellow;
+    border-radius: 20%;
+}
+#pink{
+    background-color:pink;
+    border-radius: 20%;
+}
+#purple{
+    background-color: purple;
+    border-radius: 20%;
+}
+#black{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20%;
+}
+#grey{
+    background-color: grey;
+    border-radius: 20%;
+}
+#white{
+    background-color: white;
+    border-radius: 20%;
+}
+#gold{
+    background-color: gold;
+    border-radius: 20%;
+}
+#silver{
+    background-color: silver;
+    border-radius: 20%;
+}
