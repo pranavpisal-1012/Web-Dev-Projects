@@ -1,0 +1,24 @@
+*{
+    background-color:black ;
+    color: aliceblue;
+    padding: 10px;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    border-radius: 15px;
+}
+
+#results{
+    color: red;
+    font-size: 1.5rem;
+}
+
+center{
+
+    padding: 20px;
+    border: 10px solid grey;
+  
+    
+}
